@@ -32,6 +32,41 @@
 /*
  * Body resets
  *
+ *--------------------------------------------------------
+ * Matthew's CSS tweaks. (via Keelan)
+ *
+ *
+ * This snippet allows me to center images.
+ */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+ 
+
+/*This tweak shouuld make viedo embeds responsive.
+*/
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/*----------------------------------------------------------
+
+
  * Update the foundational and global aspects of the page.
  */
 
