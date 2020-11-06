@@ -1,7 +1,7 @@
 # Setup
 title:               Matthew Hirt
 tagline:             'Missiologist'
-description:         'The personal website for Matthew Hirt'
+description:         '<img src="/public/wax-seal.png" class="center">The personal website for Matthew Hirt'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
