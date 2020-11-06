@@ -1,7 +1,7 @@
 # Setup
 title:               Matthew Hirt
 tagline:             'Missiologist'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'The personal website for Matthew Hirt'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
