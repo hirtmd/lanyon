@@ -1,12 +1,12 @@
 
 ---
 layout: post
-title: First Post
+title: Welcome to My Website
 ---
 
-This is where I will post blogs and share other information th
+You have found the personal website of Matthew Hirt. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY0MTg1ODFdfQ==
+eyJoaXN0b3J5IjpbMjA5NjUwMTQwM119
 -->
